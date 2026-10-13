@@ -1,4 +1,8 @@
 # WSPI-PJK
+
+> [!IMPORTANT]
+> **Looking for my implementation?** My from-scratch CNN, experiment logs, and results are on the [`scratch-jordan`](https://github.com/JJohnson183/ML_Road_Classification/tree/scratch-jordan) branch.
+
 ML Project CS 5821
 
 ML Road Classification
